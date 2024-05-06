@@ -1,4 +1,4 @@
-module github.com/huxulm/fiber-swagger
+module github.com/huxulm/fiber-swagger-v2
 
 go 1.15
 
